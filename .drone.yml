@@ -4,5 +4,4 @@ steps:
   - name: hello
     image: alpine
     commands:
-      - echo Hello
-      - echo World!
+      - echo Hello World!
